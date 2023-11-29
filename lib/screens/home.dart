@@ -11,9 +11,6 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      body: Center(
-        child: Text('Home'),
-      ),
-    );
+        body: Column(children: [Text('Home'), Text('This is a weather app')]));
   }
 }
