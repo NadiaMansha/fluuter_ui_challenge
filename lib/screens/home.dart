@@ -17,6 +17,7 @@ class _HomeState extends State<Home> {
       Text('This is a weather app'),
       Text('This is a weather app'),
       Text('This is a weather app'),
+      Text('This is a weather app'),
     ]));
   }
 }
